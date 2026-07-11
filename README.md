@@ -17,6 +17,13 @@ This project explores pricing and supply dynamics in Nigeria's automotive resale
 
 The dashboard is built with **Power BI Desktop** and split into two main views: **Price Analysis** and **Supply Analysis**.
 
+
+----
+## 📊 Dashboard Preview 
+
+![`dashboard preview`](Car-market-analysis.jpg)
+
+
 ---
 
 ## 🔑 Key Metrics
