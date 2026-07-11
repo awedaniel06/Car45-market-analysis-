@@ -117,4 +117,4 @@ This analysis is based on **active listing data**, not completed sales transacti
 
 **Awe Daniel Olamilekan (Sphere)**
 Data Analytics Intern, AnalystLab Africa
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/awedaniel06) | [GitHub](#)
