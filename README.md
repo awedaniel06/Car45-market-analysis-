@@ -21,7 +21,7 @@ The dashboard is built with **Power BI Desktop** and split into two main views: 
 ----
 ## 📊 Dashboard Preview 
 
-![`dashboard preview`](Car-market-analysis.jpg)
+![`dashboard preview`](https://github.com/awedaniel06/Car45-market-analysis-/blob/main/Car%20market%20analysis.jpg)
 
 
 ---
