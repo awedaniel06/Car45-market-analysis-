@@ -76,6 +76,11 @@ The dashboard is built with **Power BI Desktop** and split into two main views: 
 - **Consumer preference**: Neutral colours (Black, Gray, Silver, White) dominate listings, reflecting a market that prioritizes resale value and practicality over personalization.
 - **Caveat**: Findings are based on asking prices from active listings, not completed sales, so they reflect seller/supply-side positioning rather than confirmed transaction prices.
 
+
+## Full Report 
+
+[Click here here for full Report](https://github.com/awedaniel06/Car45-market-analysis-/blob/main/Car_Market_Dashboard_Report-1.pdf)
+
 ---
 
 ## 🎯 Strategic Takeaways
