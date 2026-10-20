@@ -1,6 +1,6 @@
 # 🚗 Nigeria Used Car Market Analysis — Power BI Dashboard
 
-A comprehensive Power BI dashboard analyzing the Nigerian used car market using listing data from **Cars45**, covering pricing trends, supply distribution, and vehicle characteristics across 1,722 listings.
+A comprehensive Power BI dashboard analyzing the Nigerian used car market using listing data from **Cars45**, covering pricing trends, supply distribution, and vehicle characteristics across 1,722 listings (January, 2025).
 
 This project examines how price and supply behave across selling condition, manufacturer, mileage, year of manufacture, and colour — revealing a market dominated by used vehicles, with distinct positioning strategies across brands (scale vs. premium exclusivity vs. balanced positioning).
 
